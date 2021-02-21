@@ -1,0 +1,10 @@
+# Launchdarkly
+* launchdarkly.com * allow
+
+# Hashicorp Cloud
+referrer-spoof: hashicorp.com false
+hashicorp.com auth0.com * allow
+hashicorp.com launchdarkly.com * allow
+hashicorp.com sentry.io * allow
+hashicorp.com splashthat.com * allow
+
