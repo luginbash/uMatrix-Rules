@@ -1,10 +1,18 @@
-# Launchdarkly
-* launchdarkly.com * allow
 
-# Hashicorp Cloud
+# Hashicorp Cloud Beta
 referrer-spoof: hashicorp.com false
 hashicorp.com auth0.com * allow
 hashicorp.com launchdarkly.com * allow
 hashicorp.com sentry.io * allow
 hashicorp.com splashthat.com * allow
 
+# Mega
+mega.nz mega.co.nz * allow
+mega.io mega.nz * allow
+mega.nz mega.co.nz * allow
+
+# Twitch
+twitch.tv jtvnw.net * allow
+twitch.tv ttvnw.net * allow
+twitch.tv twitchcdn.net * allow
+twitch.tv twitchsvc.net * allow
